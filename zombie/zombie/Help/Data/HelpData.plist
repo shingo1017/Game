@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>landArea</key>
+	<dict>
+		<key>name</key>
+		<string>土地面积</string>
+		<key>summary</key>
+		<string>土地面积的多少直接决定了这块地的大小，也决定了盖在这里的建筑物最多可以盖多少面积。</string>
+	</dict>
+	<key>buildingArea</key>
+	<dict>
+		<key>name</key>
+		<string>建筑面积</string>
+		<key>summary</key>
+		<string>幸存者可以扩张建筑面积，这需要一些木材、一些配料和一个力气比较大的人。</string>
+	</dict>
+	<key>defence</key>
+	<dict>
+		<key>name</key>
+		<string>防御</string>
+		<key>summary</key>
+		<string>如果你难以抵挡大批丧尸的围攻大本营，那么建议你平时花点时间把大本营加固一番，只需要消耗少量材料就会得到很不错的收效。</string>
+	</dict>
+	<key>peace</key>
+	<dict>
+		<key>name</key>
+		<string>治安</string>
+		<key>summary</key>
+		<string>有人就有治安管理，即使是这样一个世界里，秩序良好都是大本营高生存率的奠基石，巡逻营地可以提高治安度。</string>
+	</dict>
+	<key>nattiness</key>
+	<dict>
+		<key>name</key>
+		<string>整洁</string>
+		<key>summary</key>
+		<string>整洁的环境会让每件物资都待在它应该在的地方，相反它们就会被扔得到处都是，降低了有效的存储空间。</string>
+	</dict>
+	<key>sanitation</key>
+	<dict>
+		<key>name</key>
+		<string>卫生</string>
+		<key>summary</key>
+		<string>环境卫生不好的话，会更容易让幸存者染病，所以还是常常清理一下卫生吧，毕竟干净的环境住着也舒服些。</string>
+	</dict>
+	<key>threat</key>
+	<dict>
+		<key>name</key>
+		<string>附近威胁</string>
+		<key>summary</key>
+		<string>徘徊在附近的丧尸会对你形成威胁，如果放任不管的话还可能引起尸潮的围攻，切记要定期清扫威胁，保障区域安全。</string>
+	</dict>
+	<key>health</key>
+	<dict>
+		<key>name</key>
+		<string>健康</string>
+		<key>summary</key>
+		<string>      幸存者目前的身体状况，如果生病了就要服药医治；如果被感染了就必须离他远点儿了。</string>
+	</dict>
+	<key>strength</key>
+	<dict>
+		<key>name</key>
+		<string>力气</string>
+		<key>summary</key>
+		<string>        世界末日里，力气大是很有用武之地的，比如扩张、加固、建造、攻击等等都会体现其价值。
+        增加搏斗伤害，某些行动的必备条件</string>
+	</dict>
+	<key>agility</key>
+	<dict>
+		<key>name</key>
+		<string>灵活</string>
+		<key>summary</key>
+		<string>        行动敏捷、反应迅速的人往往在当下是最具有生存力的人群，他们具有较好的脚力，甚至可以通过短距冲刺来甩开丧尸的围攻。同时在和丧尸近距离搏斗时轻易取得先手优势。
+        减少搏斗时的危险，减少外出搜索的时间</string>
+	</dict>
+	<key>strategy</key>
+	<dict>
+		<key>name</key>
+		<string>谋略</string>
+		<key>summary</key>
+		<string>        有谋略的人即使在这个末日世界里也可以找到自己的用武之地，他们精通战术、并且还会精打细算的的做研究，比起一个肌肉男，一个有谋略的人也更容易树立威望………
+        增加合成成功率与数量，某些行动的必备条件 </string>
+	</dict>
+	<key>eq</key>
+	<dict>
+		<key>name</key>
+		<string>情商</string>
+		<key>summary</key>
+		<string>        情商高的人更容易与他人相处，也懂得进退有节，在这个残酷的末世，发生让人精神崩溃的事情是常有的，情商高的人经常可以充当人们的心灵导师，也更容易交到朋友
+        增加与其他幸存者的增进关系的速度，影响幸存者的行动判断</string>
+	</dict>
+	<key>goodness</key>
+	<dict>
+		<key>name</key>
+		<string>善良</string>
+		<key>summary</key>
+		<string>        善良的人乐于助人，愿意倾听和理解别人，杀了人会非常难过，而恶人则更加在这个末世里如鱼得水，摆脱了法律的制裁让他们更加猖狂的做回本我，四处杀人时也毫不手软，他们认为只有这样才可以活得更久。
+        影响幸存者的行动判断</string>
+	</dict>
+	<key>hungry</key>
+	<dict>
+		<key>name</key>
+		<string>饥饿</string>
+		<key>summary</key>
+		<string>        随着时间推移幸存者会产生饥饿感，饥饿会降低幸存者的工作效率和安全感，他们会自己从储备中找东西吃，所以请保持食物的储备量。</string>
+	</dict>
+	<key>thirsty</key>
+	<dict>
+		<key>name</key>
+		<string>口渴</string>
+		<key>summary</key>
+		<string>        脱水也是灾后世界人类死亡的主因之一，请时刻警惕物资储备中的水资源，脱水不仅仅影响工作效率，还会使人出现幻觉，做出极端的行为。</string>
+	</dict>
+</dict>
+</plist>
